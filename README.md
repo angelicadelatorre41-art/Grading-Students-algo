@@ -1,1 +1,1 @@
-# Grading-Students-algo
+# Grading-Students-algo This program adjusts students’ grades based on rounding rules. If a grade is less than 38, it stays the same, but if it’s 38 or higher and within 2 points of the next multiple of 5, it is rounded up to that multiple; otherwise, it remains unchanged.
